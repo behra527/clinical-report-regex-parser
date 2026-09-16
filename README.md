@@ -1,5 +1,13 @@
 # Applying Regex to Parse Clinical Reports
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-Regular%20Expressions-green)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Clinical%20Text-orange)
+![Healthcare AI](https://img.shields.io/badge/Healthcare-AI-red)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?logo=googlecolab\&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 An advanced Python Regex project for extracting structured information from realistic and messy clinical reports.
 
 ## Project Overview
